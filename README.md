@@ -27,6 +27,12 @@ Algunos de mis proyectos destacados incluyen:
 
 - 🌟 [Dark Secrets in Shadowlands](https://akthanongames.itch.io/dark-secrets-in-shadowlands)
 
+Listado de proyectos menores:
+- 🌟 [Csharp](https://github.com/stars/calyseym/lists/csharp-projects)
+- 🌟 [Python](https://github.com/stars/calyseym/lists/python-projects)
+- 🌟 [Gamemaker](https://github.com/stars/calyseym/lists/gamemaker-projects)
+- 🌟 [Web](https://github.com/stars/calyseym/lists/web-projects)
+
 ## Estadísticas de GitHub
 
 [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=calyseym&show_icons=true&theme=radical)](https://github.com/calyseym)
