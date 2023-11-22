@@ -19,7 +19,7 @@ Aquí hay algunas de las tecnologías con las que trabajo:
 - 🌐 Desarrollo web: **HTML, CSS, JavaScript**
 - 📱 Desarrollo móvil: **Android**
 - 📱 Desarrollo de videojuegos: **Gamemaker, Unity**
-- 🚀 Otros: **Autocad, Matlab, Mathcad, Arcgis, GAMIT/GLOBK, GipsyX**
+- 🚀 Software Científico: **Autocad, Matlab, Mathcad, Arcgis, GAMIT/GLOBK, GipsyX**
 
 ## Proyectos destacados
 
