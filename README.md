@@ -18,10 +18,20 @@
 Aquí hay algunas de las tecnologías con las que trabajo:
 
 - 💻 Lenguajes de programación: **C, C++, C#, Java, Python, Fortran**
-- 🌐 Desarrollo web: **HTML, CSS, JavaScript**
+- 🌐 Desarrollo web: **HTML, CSS, JavaScript** **En progreso**
 - 📱 Desarrollo móvil: **Android**
 - 🎮 Desarrollo de videojuegos: **Gamemaker, Unity**
+- 🚀 Frameworks: **.NET**
+- 📊 Librerías de Python: **Matplotlib, NumPy, Pandas**
+- 🛢️ Bases de datos: **En Progreso**
 - 🚀 Software Científico: **Autocad, Matlab, Mathcad, Arcgis, GAMIT/GLOBK, GipsyX**
+
+## Entornos de Desarrollo
+
+- 🖥️ Visual Studio Code: Mi editor de código favorito.
+- 🚀 Visual Studio: Utilizado para proyectos más grandes en C#.
+- 🌐 Anaconda: Para la gestión de entornos y paquetes en Python.
+- 📈 Jupyter Notebooks: Explorando y visualizando datos de manera interactiva.
 
 ## Proyectos destacados
 
@@ -35,6 +45,13 @@ Listado de proyectos menores:
 - 🌟 [Gamemaker](https://github.com/stars/calyseym/lists/gamemaker-projects)
 - 🌟 [Web](https://github.com/stars/calyseym/lists/web-projects)
 
+## Idiomas
+
+Hablo varios idiomas, incluyendo:
+
+- 🇺🇸 Inglés: Nivel medio
+- 🇪🇸 Español: Nivel nativo
+  
 ## Estadísticas de GitHub
 
 [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=calyseym&show_icons=true&theme=radical)](https://github.com/calyseym)
