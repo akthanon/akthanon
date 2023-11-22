@@ -4,7 +4,7 @@
 
 ## Acerca de mí
 
-- 🌐 Sitio web: [https://linktr.ee/calyseym](https://linktr.ee/calyseym)
+- 🌐 Sitio web: (https://github.com/calyseym)
 - 💼 Actualmente estudiando posgrado en **Ciencias de la Información**
 - 🚀 Me encanta aprender y explorar nuevas tecnologías
 - 📚 Graduado/a en **Licenciatura en Ingeniería Geodésica** en **Universidad Autónoma de Sinaloa**
