@@ -1,10 +1,12 @@
 # ¡Hola! 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy **Jorge Padilla Velazco**, un apasionado desarrollador/a de Software, Videojuegos, Geomática/Geoinformática.
+¡Bienvenido a mi perfil de GitHub! Soy **Jorge Padilla Velazco** o **Calyseym** para los cuates😋 o 🤖**Akthanon** para los mas conocedores, un desapasionado desarrollador/a de 
+- 💻Software
+- 🎮Videojuegos
+- 🌎Geomática/Geoinformática.
 
 ## Acerca de mí
 
-- 🌐 Sitio web: https://github.com/calyseym
 - 💼 Actualmente estudiando posgrado en **Ciencias de la Información**
 - 🚀 Me encanta aprender y explorar nuevas tecnologías
 - 📚 Graduado/a en **Licenciatura en Ingeniería Geodésica** en **Universidad Autónoma de Sinaloa**
@@ -37,13 +39,15 @@ Listado de proyectos menores:
 
 [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=calyseym&show_icons=true&theme=radical)](https://github.com/calyseym)
 
-## Contacto
-
+## Contacto y Redes
 ¡Hablemos! Puedes encontrarme en:
 
 - 📧 Correo electrónico: [jorpavelazc@hotmail.com](mailto:jorpavelazc@hotmail.com)
 - 💬 LinkedIn: [Jorge Padilla Velazco](https://www.linkedin.com/in/jorge-padilla-velazco-35a504117)
 - 💬 ResearchGate: [Jorge Padilla Velazco](https://www.researchgate.net/profile/Jorge-Padilla-Velazco)
+- 🎮 Videojuegos: [Akthanon Games](https://akthanongames.itch.io/)
+- 🪐 Wattpad : [Akthanon Historias](https://www.wattpad.com/user/Akthanon)
+- 🧸 Resto de Redes: https://linktr.ee/calyseym
 
 ¡Umbasa!
 
