@@ -20,7 +20,7 @@ Aquí hay algunas de las tecnologías con las que trabajo:
 - 💻 Lenguajes de programación: **C, C++, C#, Java, Python, Fortran**
 - 🌐 Desarrollo web: **HTML, CSS, JavaScript**
 - 📱 Desarrollo móvil: **Android**
-- 📱 Desarrollo de videojuegos: **Gamemaker, Unity**
+- 🎮 Desarrollo de videojuegos: **Gamemaker, Unity**
 - 🚀 Software Científico: **Autocad, Matlab, Mathcad, Arcgis, GAMIT/GLOBK, GipsyX**
 
 ## Proyectos destacados
