@@ -1,6 +1,6 @@
 # ¡Hola! 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy **Jorge Padilla Velazco** o **Calyseym** para los cuates😋 o 🤖**Akthanon** para los mas conocedores, un desapasionado desarrollador/a de 
+¡Bienvenido a mi perfil de GitHub! Soy **Jorge Padilla Velazco** o **Calyseym** para los cuates😋 parte de 🤖**Akthanon** para los mas conocedores, un desapasionado desarrollador/a de 
 - 💻Software
 - 🎮Videojuegos
 - 🌎Geomática/Geoinformática.
