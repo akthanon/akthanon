@@ -49,8 +49,8 @@ Listado de proyectos menores:
 
 Hablo varios idiomas, incluyendo:
 
-- 🇺🇸 Inglés: Nivel medio
-- 🇪🇸 Español: Nivel nativo
+- 🇺🇸 Inglés
+- 🇪🇸 Español
   
 ## Estadísticas de GitHub
 
