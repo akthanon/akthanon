@@ -7,11 +7,11 @@
 
 ## Acerca de mí
 
-- 💼 Actualmente estudiando posgrado en **Ciencias de la Información**
+- 💼 Actualmente terminando posgrado en **Ciencias de la Información**
 - 🚀 Me encanta aprender y explorar nuevas tecnologías
 - 📚 Graduado/a en **Licenciatura en Ingeniería Geodésica** en **Universidad Autónoma de Sinaloa**
 - 📚 Maestría en **Ciencias de la Información** en **Facultad de informática Culiacán** **Universidad Autónoma de Sinaloa**
-- 📚 Estudiando Doctorado en **Ciencias de la Información** en **Facultad de informática Culiacán** **Universidad Autónoma de Sinaloa**
+- 📚 Terminando Doctorado en **Ciencias de la Información** en **Facultad de informática Culiacán** **Universidad Autónoma de Sinaloa**
 
 ## Tecnologías
 
@@ -22,7 +22,6 @@ Aquí hay algunas de las tecnologías con las que trabajo:
 - 🎮 Desarrollo de videojuegos: **Gamemaker, Unity**
 - 🚀 Frameworks: **.NET**
 - 📊 Librerías de Python: **Matplotlib, NumPy, Pandas**
-- 🛢️ Bases de datos: **En Progreso**
 - 🚀 Software Científico: **Autocad, Matlab, Mathcad, Arcgis, GAMIT/GLOBK, GipsyX**
 
 ## Entornos de Desarrollo
@@ -37,6 +36,7 @@ Aquí hay algunas de las tecnologías con las que trabajo:
 Algunos de mis proyectos destacados incluyen:
 
 - 🌟 [Dark Secrets in Shadowlands](https://akthanongames.itch.io/dark-secrets-in-shadowlands)
+- 🌟 [Repositorio de Juegos](https://akthanongames.itch.io/)
 
 Listado de proyectos menores:
 - 🌟 [Csharp](https://github.com/stars/calyseym/lists/csharp-projects)
