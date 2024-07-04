@@ -53,7 +53,7 @@ Hablo varios idiomas, incluyendo:
   
 ## Estadísticas de GitHub
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=calyseym&show_icons=true&theme=radical)](https://github.com/calyseym)
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=calyseym&show_icons=true&theme=radical)](https://github.com/akthanon)
 
 ## Contacto y Redes
 ¡Hablemos! Puedes encontrarme en:
