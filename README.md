@@ -9,9 +9,9 @@
 
 - 💼 Actualmente terminando posgrado en **Ciencias de la Información**
 - 🚀 Me encanta aprender y explorar nuevas tecnologías
-- 📚 Graduado/a en **Licenciatura en Ingeniería Geodésica** en **Universidad Autónoma de Sinaloa**
-- 📚 Maestría en **Ciencias de la Información** en **Facultad de informática Culiacán** **Universidad Autónoma de Sinaloa**
-- 📚 Terminando Doctorado en **Ciencias de la Información** en **Facultad de informática Culiacán** **Universidad Autónoma de Sinaloa**
+- 📚 Graduado/a en **Licenciatura en Ingeniería Geodésica**
+- 📚 Maestría en **Ciencias de la Información**
+- 📚 Terminando Doctorado en **Ciencias de la Información**
 
 ## Tecnologías
 
