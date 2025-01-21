@@ -39,10 +39,10 @@ Algunos de mis proyectos destacados incluyen:
 - 🌟 [Repositorio de Juegos](https://akthanongames.itch.io/)
 
 Listado de proyectos menores:
-- 🌟 [Csharp](https://github.com/stars/calyseym/lists/csharp-projects)
-- 🌟 [Python](https://github.com/stars/calyseym/lists/python-projects)
-- 🌟 [Gamemaker](https://github.com/stars/calyseym/lists/gamemaker-projects)
-- 🌟 [Web](https://github.com/stars/calyseym/lists/web-projects)
+- 🌟 [Csharp](https://github.com/stars/akthanon/lists/csharp-projects)
+- 🌟 [Python](https://github.com/stars/akthanon/lists/python-projects)
+- 🌟 [Gamemaker](https://github.com/stars/akthanon/lists/gamemaker-projects)
+- 🌟 [Web](https://github.com/stars/akthanon/lists/web-projects)
 
 ## Idiomas
 
@@ -63,7 +63,7 @@ Hablo varios idiomas, incluyendo:
 - 💬 ResearchGate: [Jorge Padilla Velazco](https://www.researchgate.net/profile/Jorge-Padilla-Velazco)
 - 🎮 Videojuegos: [Akthanon Games](https://akthanongames.itch.io/)
 - 🪐 Wattpad : [Akthanon Historias](https://www.wattpad.com/user/Akthanon)
-- 🧸 Resto de Redes: https://linktr.ee/calyseym
+- 🧸 Resto de Redes: https://linktr.ee/akthanon
 
 ¡Umbasa!
 
