@@ -4,14 +4,14 @@
 - 💻Software
 - 🎮Videojuegos
 - 🌎Geomática/Geoinformática.
+- 💻Ciberseguridad
 
 ## Acerca de mí
 
-- 💼 Actualmente terminando posgrado en **Ciencias de la Información**
 - 🚀 Me encanta aprender y explorar nuevas tecnologías
 - 📚 Graduado/a en **Licenciatura en Ingeniería Geodésica**
 - 📚 Maestría en **Ciencias de la Información**
-- 📚 Terminando Doctorado en **Ciencias de la Información**
+- 📚 Doctorado en **Ciencias de la Información**
 
 ## Tecnologías
 
@@ -19,7 +19,7 @@ Aquí hay algunas de las tecnologías con las que trabajo:
 
 - 💻 Lenguajes de programación: **C, C++, C#, Java, Python, Fortran**
 - 🌐 Desarrollo web: **HTML, CSS, JavaScript**
-- 🎮 Desarrollo de videojuegos: **Gamemaker, Unity**
+- 🎮 Desarrollo de videojuegos: **Gamemaker, Unity, Pygame**
 - 🚀 Frameworks: **.NET**
 - 📊 Librerías de Python: **Matplotlib, NumPy, Pandas**
 - 🚀 Software Científico: **Autocad, Matlab, Mathcad, Arcgis, GAMIT/GLOBK, GipsyX**
@@ -27,6 +27,7 @@ Aquí hay algunas de las tecnologías con las que trabajo:
 ## Entornos de Desarrollo
 
 - 🖥️ Visual Studio Code: Mi editor de código favorito.
+- 🖥️ Sublime Text: Mi editor de código opcional.
 - 🚀 Visual Studio: Utilizado para proyectos más grandes en C#.
 - 🌐 Anaconda: Para la gestión de entornos y paquetes en Python.
 - 📈 Jupyter Notebooks: Explorando y visualizando datos de manera interactiva.
