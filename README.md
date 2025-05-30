@@ -12,6 +12,7 @@
 - 📚 Graduado/a en **Licenciatura en Ingeniería Geodésica**
 - 📚 Maestría en **Ciencias de la Información**
 - 📚 Doctorado en **Ciencias de la Información**
+- 📚 Profesor de **TI y Ciberseguridad**
 
 ## Tecnologías
 
