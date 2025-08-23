@@ -1,6 +1,6 @@
 # ¡Hola! 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy **Jorge Padilla Velazco** para los cuates😋 parte de 🤖**Akthanon** para los mas conocedores, un desapasionado desarrollador/a de 
+¡Bienvenido a mi perfil de GitHub! Soy parte de 🤖**Akthanon**, un desapasionado desarrollador/a de 
 - 💻Software
 - 🎮Videojuegos
 - 🌎Geomática/Geoinformática.
