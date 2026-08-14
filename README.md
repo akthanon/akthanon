@@ -1,72 +1,110 @@
 # ¡Hola! 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy parte de 🤖**Akthanon**, un desapasionado desarrollador/a de 
-- 💻Software
-- 🎮Videojuegos
-- 🌎Geomática/Geoinformática.
-- 💻Ciberseguridad
+Soy Conocido como **Akthanon** en este Github.
 
-## Acerca de mí
+Soy **Doctor en Ciencias de la Información, profesor de TI y Ciberseguridad, desarrollador y entusiasta de la seguridad informática**, con formación previa en Ingeniería Geodésica y Ciencias de la Información.
 
-- 🚀 Me encanta aprender y explorar nuevas tecnologías
-- 📚 Graduado/a en **Licenciatura en Ingeniería Geodésica**
-- 📚 Maestría en **Ciencias de la Información**
-- 📚 Doctorado en **Ciencias de la Información**
-- 📚 Profesor de **TI y Ciberseguridad**
+Actualmente estoy enfocado principalmente en **ciberseguridad ofensiva, hacking web, bug bounty y automatización de procesos de reconocimiento y análisis de aplicaciones web**.
 
-## Tecnologías
+## 🔐 Actualmente
 
-Aquí hay algunas de las tecnologías con las que trabajo:
+Mi principal área de interés es el **Web Hacking**, especialmente:
 
-- 💻 Lenguajes de programación: **C, C++, C#, Java, Python, Fortran**
-- 🌐 Desarrollo web: **HTML, CSS, JavaScript**
-- 🎮 Desarrollo de videojuegos: **Gamemaker, Unity, Pygame**
-- 🚀 Frameworks: **.NET**
-- 📊 Librerías de Python: **Matplotlib, NumPy, Pandas**
-- 🚀 Software Científico: **Autocad, Matlab, Mathcad, Arcgis, GAMIT/GLOBK, GipsyX**
+* 🕵️ Reconocimiento y enumeración de aplicaciones web
+* 🔓 Broken Access Control
+* 🌐 Vulnerabilidades web y lógica de negocio
+* 🔑 JWT, OAuth y autenticación
+* 🧩 APIs, GraphQL y WebSockets
+* 🛡️ CORS, CSRF, SSRF, XXE, SSTI y otras vulnerabilidades web
+* ⚡ Race Conditions y problemas de concurrencia
+* 🔍 Information Disclosure
+* 💥 Insecure Deserialization
+* 📦 HTTP Request Smuggling
+* 🧪 Investigación y reproducción de vulnerabilidades
+* 🐞 Bug Bounty
 
-## Entornos de Desarrollo
+También me interesa especialmente **automatizar todo aquello que pueda convertirse en un proceso repetible**.
 
-- 🖥️ Visual Studio Code: Mi editor de código favorito.
-- 🖥️ Sublime Text: Mi editor de código opcional.
-- 🚀 Visual Studio: Utilizado para proyectos más grandes en C#.
-- 🌐 Anaconda: Para la gestión de entornos y paquetes en Python.
-- 📈 Jupyter Notebooks: Explorando y visualizando datos de manera interactiva.
+> Mi objetivo no es solamente encontrar vulnerabilidades, sino entender cómo funcionan los sistemas, identificar sus supuestos y construir herramientas que permitan analizar grandes cantidades de información de forma eficiente.
 
-## Proyectos destacados
+## 🛠️ Tecnologías y herramientas
 
-Algunos de mis proyectos destacados incluyen:
+### Programación
 
-- 🌟 [Dark Secrets in Shadowlands](https://akthanongames.itch.io/dark-secrets-in-shadowlands)
-- 🌟 [Repositorio de Juegos](https://akthanongames.itch.io/)
+* 🐍 **Python**
+* 💻 **C**
+* 🖥️ **C#**
+* 🌐 **JavaScript**
+* 🐚 **Bash**
+* 🗄️ **SQL**
 
-Listado de proyectos menores:
-- 🌟 [Csharp](https://github.com/stars/akthanon/lists/csharp-projects)
-- 🌟 [Python](https://github.com/stars/akthanon/lists/python-projects)
-- 🌟 [Gamemaker](https://github.com/stars/akthanon/lists/gamemaker-projects)
-- 🌟 [Web](https://github.com/stars/akthanon/lists/web-projects)
+### Web
 
-## Idiomas
+* HTML / CSS / JavaScript
+* Flask
+* Node.js
+* REST APIs
+* JSON
+* JWT
+* GraphQL
 
-Hablo varios idiomas, incluyendo:
+### Ciberseguridad
 
-- 🇺🇸 Inglés
-- 🇪🇸 Español
-  
-## Estadísticas de GitHub
+* **Burp Suite**
+* **Nmap**
+* **FFUF**
+* **Nuclei**
+* **Katana**
+* **Metasploit**
+* **OWASP Juice Shop**
+* **PortSwigger Web Security Academy**
+* **Hack The Box**
+* **HackerOne**
+* **Bugcrowd**
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=akthanon&show_icons=true&theme=radical)](https://github.com/akthanon)
+## 💻 Filosofía de trabajo
 
-## Contacto y Redes
-¡Hablemos! Puedes encontrarme en:
+Me gusta entender los sistemas **desde sus mecanismos internos**, no solamente utilizar las herramientas que los rodean.
 
-- 📧 Correo electrónico: [jorpavelazc@hotmail.com](mailto:jorpavelazc@hotmail.com)
-- 💬 LinkedIn: [Jorge Padilla Velazco](https://www.linkedin.com/in/jorge-padilla-velazco-35a504117)
-- 💬 ResearchGate: [Jorge Padilla Velazco](https://www.researchgate.net/profile/Jorge-Padilla-Velazco)
-- 🎮 Videojuegos: [Akthanon Games](https://akthanongames.itch.io/)
-- 🪐 Wattpad : [Akthanon Historias](https://www.wattpad.com/user/Akthanon)
-- 🧸 Resto de Redes: https://linktr.ee/akthanon
+Gran parte de mi forma de aprender consiste en:
 
-¡Umbasa!
+**observar → formular hipótesis → experimentar → romper → analizar → automatizar → repetir**
 
+Por eso suelo interesarme especialmente por problemas donde es necesario descubrir cómo funciona realmente un sistema y dónde están sus límites.
 
+## 👨‍🏫 Docencia
+
+Actualmente soy profesor de **TI y Ciberseguridad**, con experiencia en enseñanza de:
+
+* Informática Forense
+* Hacking Ético
+* Programación
+* Tecnologías de la Información
+* Seguridad informática
+
+También me interesa especialmente la intersección entre **educación, programación y ciberseguridad**.
+
+## 🎮 Otros proyectos
+
+Antes de enfocarme fuertemente en ciberseguridad también desarrollé proyectos de software y videojuegos.
+
+🎮 **Akthanon Games**
+[itch.io/akthanongames](https://akthanongames.itch.io/)
+
+🌑 **Dark Secrets in Shadowlands**
+[Ver proyecto](https://akthanongames.itch.io/dark-secrets-in-shadowlands)
+
+## 📊 GitHub
+
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=akthanon\&show_icons=true\&theme=radical)](https://github.com/akthanon)
+
+## 🌐 Contacto
+
+* 💼 **LinkedIn:** [Jorge Padilla Velazco](https://www.linkedin.com/in/jorge-padilla-velazco-35a504117)
+* 🔬 **ResearchGate:** [Jorge Padilla Velazco](https://www.researchgate.net/profile/Jorge-Padilla-Velazco)
+* 🎮 **Akthanon Games:** [itch.io/akthanongames](https://akthanongames.itch.io/)
+* 📧 **Email:** [jorpavelazc@hotmail.com](mailto:jorpavelazc@hotmail.com)
+
+---
+
+*"Umbasa."* 🐢
