@@ -1,35 +1,35 @@
-# ¡Hola! 👋
+# Hi there! 👋
 
-Soy Conocido como **Akthanon** en este Github.
+I am known as **Akthanon** on this GitHub.
 
-Soy **Doctor en Ciencias de la Información, profesor de TI y Ciberseguridad, desarrollador y entusiasta de la seguridad informática**, con formación previa en Ingeniería Geodésica y Ciencias de la Información.
+I hold a **PhD in Information Sciences**, and I am an **IT and Cybersecurity professor, developer, and information security enthusiast**, with previous training in Geodetic Engineering and Information Sciences.
 
-Actualmente estoy enfocado principalmente en **ciberseguridad ofensiva, hacking web, bug bounty y automatización de procesos de reconocimiento y análisis de aplicaciones web**.
+I am currently focused mainly on **offensive cybersecurity, web hacking, bug bounty, and automation of reconnaissance and web application analysis processes**.
 
-## 🔐 Actualmente
+## 🔐 Currently
 
-Mi principal área de interés es el **Web Hacking**, especialmente:
+My main area of interest is **Web Hacking**, especially:
 
-* 🕵️ Reconocimiento y enumeración de aplicaciones web
+* 🕵️ Web application reconnaissance and enumeration
 * 🔓 Broken Access Control
-* 🌐 Vulnerabilidades web y lógica de negocio
-* 🔑 JWT, OAuth y autenticación
-* 🧩 APIs, GraphQL y WebSockets
-* 🛡️ CORS, CSRF, SSRF, XXE, SSTI y otras vulnerabilidades web
-* ⚡ Race Conditions y problemas de concurrencia
+* 🌐 Web vulnerabilities and business logic
+* 🔑 JWT, OAuth, and authentication
+* 🧩 APIs, GraphQL, and WebSockets
+* 🛡️ CORS, CSRF, SSRF, XXE, SSTI, and other web vulnerabilities
+* ⚡ Race Conditions and concurrency issues
 * 🔍 Information Disclosure
 * 💥 Insecure Deserialization
 * 📦 HTTP Request Smuggling
-* 🧪 Investigación y reproducción de vulnerabilidades
+* 🧪 Vulnerability research and reproduction
 * 🐞 Bug Bounty
 
-También me interesa especialmente **automatizar todo aquello que pueda convertirse en un proceso repetible**.
+I am also especially interested in **automating anything that can become a repeatable process**.
 
-> Mi objetivo no es solamente encontrar vulnerabilidades, sino entender cómo funcionan los sistemas, identificar sus supuestos y construir herramientas que permitan analizar grandes cantidades de información de forma eficiente.
+> My goal is not only to find vulnerabilities, but to understand how systems work, identify their assumptions, and build tools that make it possible to analyze large amounts of information efficiently.
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Technologies and Tools
 
-### Programación
+### Programming
 
 * 🐍 **Python**
 * 💻 **C**
@@ -48,7 +48,7 @@ También me interesa especialmente **automatizar todo aquello que pueda converti
 * JWT
 * GraphQL
 
-### Ciberseguridad
+### Cybersecurity
 
 * **Burp Suite**
 * **Nmap**
@@ -62,43 +62,43 @@ También me interesa especialmente **automatizar todo aquello que pueda converti
 * **HackerOne**
 * **Bugcrowd**
 
-## 💻 Filosofía de trabajo
+## 💻 Work Philosophy
 
-Me gusta entender los sistemas **desde sus mecanismos internos**, no solamente utilizar las herramientas que los rodean.
+I like to understand systems **from their internal mechanisms**, not just use the tools around them.
 
-Gran parte de mi forma de aprender consiste en:
+A large part of how I learn consists of:
 
-**observar → formular hipótesis → experimentar → romper → analizar → automatizar → repetir**
+**observing → formulating hypotheses → experimenting → breaking → analyzing → automating → repeating**
 
-Por eso suelo interesarme especialmente por problemas donde es necesario descubrir cómo funciona realmente un sistema y dónde están sus límites.
+That is why I tend to be especially interested in problems where it is necessary to discover how a system really works and where its limits are.
 
-## 👨‍🏫 Docencia
+## 👨‍🏫 Teaching
 
-Actualmente soy profesor de **TI y Ciberseguridad**, con experiencia en enseñanza de:
+I am currently a professor of **IT and Cybersecurity**, with experience teaching:
 
-* Informática Forense
-* Hacking Ético
-* Programación
-* Tecnologías de la Información
-* Seguridad informática
+* Digital Forensics
+* Ethical Hacking
+* Programming
+* Information Technologies
+* Computer Security
 
-También me interesa especialmente la intersección entre **educación, programación y ciberseguridad**.
+I am also especially interested in the intersection between **education, programming, and cybersecurity**.
 
-## 🎮 Otros proyectos
+## 🎮 Other Projects
 
-Antes de enfocarme fuertemente en ciberseguridad también desarrollé proyectos de software y videojuegos.
+Before focusing heavily on cybersecurity, I also developed software and video game projects.
 
 🎮 **Akthanon Games**
 [itch.io/akthanongames](https://akthanongames.itch.io/)
 
 🌑 **Dark Secrets in Shadowlands**
-[Ver proyecto](https://akthanongames.itch.io/dark-secrets-in-shadowlands)
+[View project](https://akthanongames.itch.io/dark-secrets-in-shadowlands)
 
 ## 📊 GitHub
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=akthanon\&show_icons=true\&theme=radical)](https://github.com/akthanon)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akthanon\&show_icons=true\&theme=radical)](https://github.com/akthanon)
 
-## 🌐 Contacto
+## 🌐 Contact
 
 * 💼 **LinkedIn:** [Jorge Padilla Velazco](https://www.linkedin.com/in/jorge-padilla-velazco-35a504117)
 * 🔬 **ResearchGate:** [Jorge Padilla Velazco](https://www.researchgate.net/profile/Jorge-Padilla-Velazco)
